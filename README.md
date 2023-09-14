@@ -1,6 +1,6 @@
-# STM32F3 RTIC Blink example
+# STM32F3 RTIC Distance Alerter Project
 
-Working example of simple LED blinking application for STM32 F303 Nucleo-64 board based on the STM32F303RE chip. Example uses schedule API and peripherials access. This example is based on blue-pill blinky example.
+Working example of Distance measuring application for STM32 F303 Nucleo-64 board based on the STM32F303RE chip. Project uses schedule API and peripherials access.
 
 ## How-to
 
@@ -14,6 +14,4 @@ After that, you can use for example the cargo-embed tool to flash and run it
 $ cargo +nightly embed
 ```
 
-### Setup environment, flash and run program
 
-In the [Discovery Book](https://rust-embedded.github.io/discovery) you find all needed informations to setup the environment, flash the controler and run the program.
