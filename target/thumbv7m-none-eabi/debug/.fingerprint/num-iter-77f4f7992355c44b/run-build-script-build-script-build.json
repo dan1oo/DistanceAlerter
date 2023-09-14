@@ -1,0 +1,1 @@
+{"rustc":12862991810731161669,"features":"","target":0,"profile":0,"path":0,"deps":[[17104864861555733718,"build_script_build",false,5147922851216308416]],"local":[{"RerunIfChanged":{"output":"thumbv7m-none-eabi/debug/build/num-iter-77f4f7992355c44b/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

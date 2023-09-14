@@ -1,0 +1,1 @@
+cargo:rustc-link-search=/Users/dwang2/projects/daniel_repo/RTIC_3/target/thumbv7m-none-eabi/debug/build/defmt-b476505f8fd7d292/out

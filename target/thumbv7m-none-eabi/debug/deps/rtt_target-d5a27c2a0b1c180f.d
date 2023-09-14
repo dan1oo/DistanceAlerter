@@ -1,0 +1,11 @@
+/Users/dwang2/projects/daniel_repo/RTIC_3/target/thumbv7m-none-eabi/debug/deps/rtt_target-d5a27c2a0b1c180f.rmeta: /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/lib.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/init.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/debug.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/rtt.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/print.rs
+
+/Users/dwang2/projects/daniel_repo/RTIC_3/target/thumbv7m-none-eabi/debug/deps/librtt_target-d5a27c2a0b1c180f.rlib: /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/lib.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/init.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/debug.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/rtt.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/print.rs
+
+/Users/dwang2/projects/daniel_repo/RTIC_3/target/thumbv7m-none-eabi/debug/deps/rtt_target-d5a27c2a0b1c180f.d: /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/lib.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/init.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/debug.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/rtt.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/print.rs
+
+/Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/lib.rs:
+/Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/init.rs:
+/Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/debug.rs:
+/Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/rtt.rs:
+/Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.4.0/src/print.rs:

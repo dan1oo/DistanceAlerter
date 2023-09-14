@@ -1,0 +1,10 @@
+/Users/dwang2/projects/rtic/examples/stm32f3_blinky/target/thumbv7m-none-eabi/debug/deps/futures_task-f93df918dc9f8cb6.rmeta: /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/lib.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/spawn.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/future_obj.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/noop_waker.rs
+
+/Users/dwang2/projects/rtic/examples/stm32f3_blinky/target/thumbv7m-none-eabi/debug/deps/libfutures_task-f93df918dc9f8cb6.rlib: /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/lib.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/spawn.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/future_obj.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/noop_waker.rs
+
+/Users/dwang2/projects/rtic/examples/stm32f3_blinky/target/thumbv7m-none-eabi/debug/deps/futures_task-f93df918dc9f8cb6.d: /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/lib.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/spawn.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/future_obj.rs /Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/noop_waker.rs
+
+/Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/lib.rs:
+/Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/spawn.rs:
+/Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/future_obj.rs:
+/Users/dwang2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.26/src/noop_waker.rs:

@@ -1,0 +1,4 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/Users/dwang2/projects/rtic/examples/stm32f3_blinky/target/thumbv7m-none-eabi/debug/build/cortex-m-f43db0a15725f26b/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv7m
